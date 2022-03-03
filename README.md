@@ -1,2 +1,2 @@
 # Google-Git-and-Github
-Course Git and Github from Google IT Automation Specialization
+Git and Github Course from Google IT Automation Specialization
